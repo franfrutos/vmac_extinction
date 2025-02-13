@@ -70,11 +70,11 @@ plot_power <-
   scale_fill_manual(values=c("darkblue", "darkorange")) +
   scale_color_manual(values=c("darkblue", "darkorange")) +
   theme_Publication() +
-  theme(text = element_text(size = 8),
-        plot.margin = margin(0, 0, 0, 0))
+  theme(text = element_text(size = 10),
+        plot.margin = margin(0, 0, 0, 5))
 
 ggsave(plot = plot_power,
-       filename = "Output/plots/figureS1.png",
+       filename = "Output/plots/FigureS1.png",
        height = 8,
        width = 10,
        units = "cm",

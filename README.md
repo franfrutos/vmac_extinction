@@ -1,4 +1,4 @@
-# VMAC Depends on explicit awareness project
+# README
 
 This project is the repository for all data, scripts, and materials used for the manuscript entitled: "***The effect of reward and punishment on the extinction of attentional capture elicited by value-related stimuli***".
 
